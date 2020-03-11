@@ -13,6 +13,10 @@ const NavBar = () => {
                <Icon type="mail" />
                Navigation One
             </Menu.Item>
+            <Menu.Item key="lazy">
+               <Icon type="save" />
+               Lazy
+            </Menu.Item>
          </Menu>
       </>
    );
